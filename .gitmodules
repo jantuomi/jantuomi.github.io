@@ -1,0 +1,3 @@
+[submodule "kujala"]
+	path = kujala
+	url = https://github.com/jantuomi/kujala.git
